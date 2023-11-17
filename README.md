@@ -5,7 +5,7 @@
 <br>
 <p align="center" style="margin-bottom: 0px !important;">
   <a href="https://rhs.puyallupsd.org" alt="Rogers High Website">
-    <img src="https://raw.githubusercontent.com/RHS-puyallup/.github/main/assets/Rogers-Logo.png" width="70" /></a>
+    Website</a>
 </p>
 <div align="center">
   <h2 style="margin-top: 0px;">Projects:</h2>
